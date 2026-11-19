@@ -1,5 +1,13 @@
-Проект NextJS Countries
-Установка
+# NextJS Countries Project
+
+## Установка
+
+```bash
 npm install
-Запуск
+```
+
+## Запуск
+
+```bash
 npm run dev
+```
